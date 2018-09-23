@@ -10,3 +10,4 @@ public class TenentApplication {
 		SpringApplication.run(TenentApplication.class, args);
 	}
 }
+ 
